@@ -140,15 +140,15 @@ header .logo img {
 .token {
     width: 85%;
     margin-top: 25px;
-    color: rgb(254, 202, 1);
+    color: #63C6D2;
 }
 
 .token-title {
     margin-top: 24px;
     margin-bottom: 8px;
-    color: rgb(254, 202, 1);
-    font-weight: 500;
-    font-size: 12px;
+    color: #63C6D2;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .token-line {
@@ -167,7 +167,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: rgb(254, 202, 1);
+    background: #63C6D2;
     height: 10px;
     border-radius: 6px;
 }
@@ -176,6 +176,7 @@ header .logo img {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: 16px;
 }
 
 .token-number span {
@@ -342,7 +343,7 @@ header .logo img {
 }
 
 .button-box img {
-    width: 75px;
+    width: 200px;
 }
 
 .wallet-address {
