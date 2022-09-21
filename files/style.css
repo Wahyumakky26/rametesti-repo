@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
     font-family: Poppins, sans-serif;
     background: url("bg.png") 0% 0% / cover no-repeat;
-    color: rgb(0, 0, 0);
+    color: white;
     display: flex;
     justify-content: center;
     letter-spacing: 0.6px;
