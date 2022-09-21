@@ -140,13 +140,13 @@ header .logo img {
 .token {
     width: 85%;
     margin-top: 25px;
-    color: #63C6D2;
+    color: black;
 }
 
 .token-title {
     margin-top: 24px;
     margin-bottom: 8px;
-    color: #63C6D2;
+    color: black;
     font-weight: bold;
     font-size: 20px;
 }
@@ -167,7 +167,7 @@ header .logo img {
 .token-line .progress-line {
     position: absolute;
     inset: 0px;
-    background: #63C6D2;
+    background: black;
     height: 10px;
     border-radius: 6px;
 }
